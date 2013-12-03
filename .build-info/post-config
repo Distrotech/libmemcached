@@ -1,0 +1,3 @@
+#!/bin/bash
+
+touch libmemcached/csl/*.cc libmemcached/csl/*.h
